@@ -1,1 +1,1 @@
-# AlgorithmicDataScience
+# Algorithmic Data Science
